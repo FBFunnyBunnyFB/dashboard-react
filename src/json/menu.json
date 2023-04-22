@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "title": "Dashboard",
+            "icon": "key-square"
+        },
+        {
+            "title": "Product",
+            "icon": "3d-square",
+            "has_arrow": true
+        },
+        {
+            "title": "Customers",
+            "icon": "user-square",
+            "has_arrow": true,
+            "active": true
+        },
+        {
+            "title": "Income",
+            "icon": "wallet-money",
+            "has_arrow": true
+        },
+        {
+            "title": "Promote",
+            "icon": "discount-shape",
+            "has_arrow": true
+        },
+        {
+            "title": "Help",
+            "icon": "message-question",
+            "has_arrow": true
+        }
+    ]
+}
